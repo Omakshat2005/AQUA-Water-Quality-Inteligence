@@ -2,17 +2,13 @@
 # Data Manipulation
 pandas
 numpy
-
 # Machine Learning
 scikit-learn
-
 # Visualization
 matplotlib
 seaborn
 plotly
-
 # Web Interface
 streamlit
-
 # Image Processing (If needed for hex code scripts)
 Pillow
